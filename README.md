@@ -1,4 +1,4 @@
-# Coding Challenge
+# Google Foobar
 Coding challenge from the Google-Foobar invitation
 
 ### Level 2
