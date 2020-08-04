@@ -2,12 +2,10 @@
 Coding challenge from the Google-Foobar invitation
 
 ### Level 2
-Very simple problems and soultions.
+Level 2 mostly consisted of simple problems with simple solutions. Not all problems have been linked here.
 
 1) [Salute](https://github.com/fr3632ho/google_challenge/blob/master/lvl2/salute.py) 
 2) [IDs](https://github.com/fr3632ho/google_challenge/blob/master/lvl2/ids.py)
-
-ids.py, assign ids to bunnies based on a certain pattern appearing in the test data. Real simple.
 
 ### Level 3
 1) [Makrov Chaining](https://github.com/fr3632ho/google_challenge/tree/master/lvl3/makrov-chaining): Given a transition matrix of probabilites for changing states between particles, calculate the probability of ending up in a terminal (absorbing) state. Have test files for this problem as well.
