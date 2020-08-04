@@ -1,6 +1,6 @@
 ### Description
 
-####Bringing a Gun to a Guard Fight
+#### Bringing a Gun to a Guard Fight
 ===============================
 
 Uh-oh - you've been cornered by one of Commander Lambdas elite guards! Fortunately, you grabbed a beam weapon from an abandoned guard post while you were running through the station, so you have a chance to fight your way out. But the beam weapon is potentially dangerous to you as well as to the elite guard: its beams reflect off walls, meaning you'll have to be very careful where you shoot to avoid bouncing a shot toward yourself!
