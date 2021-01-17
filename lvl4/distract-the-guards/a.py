@@ -2,6 +2,9 @@
 from fractions import Fraction
 from collections import defaultdict
 
+'''
+Greedy algorithm for finding a maximal matching between nodes in a graph.
+'''
 mem = set()
 def to_fraction(a, b):
     if a > b:
@@ -33,7 +36,6 @@ def solution(banana_list):
     bad = 0
     to_process=len(banana_list)
     while(to_process>0):
-
         min_num=0
         for i in range(len(G)):
             if(i!=0 and (len(G[i])<len(G[min_num]) or G[min_num] == [-1]) and G[i]!=[-1]):
